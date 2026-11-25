@@ -66,7 +66,7 @@
 
 ADM provides a remote MCP (Managed Customer Platform) for Google Ads accounts, enabling reading of campaigns and drafting of Search campaigns via a bearer token authentication. The service is accessed through the app.adm.cc domain and documentation is referenced at adm.cc/docs/google-ads-skill. Currently the API endpoints are limited to POST-only access and no public OpenAPI specification is available.
 
-**Areas:** Company · Advertising · Marketing · Google-Ads · MCP
+**Areas:** Company · Advertising · Marketing · Google Ads · MCP
 
 ## ADM on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adm Cc Domain Security](https://apis.io/security/adm-cc/adm-cc-domain-security/)
+- [ADM Domain Security](https://apis.io/security/adm-cc/adm-cc-domain-security/)
 
 ## Where to find this API
 
@@ -95,7 +95,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 15.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 15.6** — emerging · rubric 0.25.0 · scored 2026-10-23
 
 | Facet | Score |
 |---|---|
@@ -129,6 +129,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
 **Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
